@@ -11,4 +11,6 @@ for (let subj in scoreObject){
 }
 }
 
+console.log("Did it work????")
+
 console.log(minMaxScore(subjectScores))
